@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe website built with just basic HTML for The Odin Project Assignment.
